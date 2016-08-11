@@ -1,0 +1,12 @@
+
+
+#footernav {
+  box-sizing: border-box;
+   padding: 15px;
+  margin-top: 200px; 
+  color:white;
+}
+
+#navbar-fixed-top{
+  top:0;
+}
